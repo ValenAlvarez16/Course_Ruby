@@ -1,4 +1,3 @@
-=begin
 a = 0
 begin
     puts "Hola a todos"
@@ -18,9 +17,9 @@ ensure
     puts "me sigo ejecutando"
     puts "Terminé mi ejecución"
 end
-=end
+
 #-------------------------------------------------------------
-=begin
+
 a = 0
 begin
     puts "Hola a todos"
@@ -43,7 +42,7 @@ end
 
 
 #---------------------------------------------------------------
-=begin
+
 a = 0
 begin
     puts "Hola a todos"
@@ -62,5 +61,5 @@ ensure
     puts "me sigo ejecutando"
     puts "Terminé mi ejecución"
 end
-=end 
+
 
